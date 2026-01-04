@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **bilaI’m Bilawal Akbar, a student and aspiring computer scientist with a strong interest in problem-solving, software engineering, and building practical tech products.
 
 🚀 What am I currently working on?
